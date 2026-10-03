@@ -22,9 +22,9 @@ I build scalable **FastAPI web backends**, automated **financial data pipelines 
 
 ### Tier-1 Portfolio Projects
 
-**[QuantFeed API](LINK_TO_QUANTFEED_REPO)**: Hardened FastAPI service for financial data extraction, technical indicator transformation (SMA/RSI), and Power BI integration.
-**[AI Mashup Studio](LINK_TO_AI_MASHUP_REPO)**: Multi-threaded Python desktop application built with PySide6 for local AI audio processing and Demucs stem separation.
-**[Multi-Utility Media Pipeline](LINK_TO_MEDIA_REPO)**: Automated data processing engine for high-volume video and audio extraction.
+**[QuantFeed API](https://github.com/KAMALAKAR12345/quantfeed-api.git)**: Hardened FastAPI service for financial data extraction, technical indicator transformation (SMA/RSI), and Power BI integration.
+**[AI Mashup Studio](https://github.com/KAMALAKAR12345/AI_Mashup_Studio.git)**: Multi-threaded Python desktop application built with PySide6 for local AI audio processing and Demucs stem separation.
+**[Multi-Utility Media Pipeline](https://github.com/KAMALAKAR12345/media-converter-app.git)**: Privacy-focused media processing engine for automated image/audio conversion and data sanitization.
 
 ### GitHub Metrics
 <div align="center">
