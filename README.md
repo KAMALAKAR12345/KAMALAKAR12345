@@ -22,17 +22,17 @@ I build scalable **FastAPI web backends**, automated **financial data pipelines 
 
 ### Tier-1 Portfolio Projects
 
-* 📈 **[QuantFeed API](LINK_TO_QUANTFEED_REPO)**: Hardened FastAPI service for financial data extraction, technical indicator transformation (SMA/RSI), and Power BI integration.
-* 🤖 **[AI Mashup Studio](LINK_TO_AI_MASHUP_REPO)**: Multi-threaded Python desktop application built with PySide6 for local AI audio processing and Demucs stem separation.
-* 🎬 **[Multi-Utility Media Pipeline](LINK_TO_MEDIA_REPO)**: Automated data processing engine for high-volume video and audio extraction.
+**[QuantFeed API](LINK_TO_QUANTFEED_REPO)**: Hardened FastAPI service for financial data extraction, technical indicator transformation (SMA/RSI), and Power BI integration.
+**[AI Mashup Studio](LINK_TO_AI_MASHUP_REPO)**: Multi-threaded Python desktop application built with PySide6 for local AI audio processing and Demucs stem separation.
+**[Multi-Utility Media Pipeline](LINK_TO_MEDIA_REPO)**: Automated data processing engine for high-volume video and audio extraction.
 
-### 📊 GitHub Metrics
+### GitHub Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KAMALAKAR12345&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 <br>
 <div align="center">
   <i>Looking to automate your data pipelines or build a custom Python backend?</i><br>
-  <b><a href="YOUR_UPWORK_PROFILE_URL">Let's discuss your project on Upwork!</a></b>
+  <b><a href="https://www.upwork.com/freelancers/~01d8800839ca08d4e3?mp_source=share">Let's discuss your project on Upwork!</a></b>
 </div>
