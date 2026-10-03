@@ -3,7 +3,7 @@
 # Hi there, I'm Kamalakar 
 ### Python Backend Engineer | FastAPI & Data Pipelines 
   
-<a href="YOUR_UPWORK_PROFILE_URL">
+<a href="https://www.upwork.com/freelancers/~01d8800839ca08d4e3?mp_source=share">
   <img src="https://img.shields.io/badge/Available%20for%20Hire%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork"/>
 </a>
 
